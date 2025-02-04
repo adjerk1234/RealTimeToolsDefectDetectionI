@@ -147,20 +147,8 @@ Food Industry: Identifying defective fryums and similar items.
 
 Visit here: [RoboFlow](https://blog.roboflow.com/getting-started-with-roboflow/)
 
-## 🤖 Contributing
-We welcome contributions from the open-source community! To contribute:
 
-## 🏅 Authors
 
-Your Name - https://github.com/deepmbhatt
-
-Collaborator - [GitHub](https://github.com/deepmbhatt)
-
-## 📧 Contact
-
-For any inquiries, feel free to reach out:
-
-Email: deepmanishbhatt@gmail.com
 
 ## ⚖️ License
 
